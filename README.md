@@ -66,4 +66,3 @@ Feel free to:
 ---
 
 **Author**: Mohamed Tamer  
-**License**: MIT  
